@@ -2,4 +2,9 @@ my 1st line
 my 2nd line
 my 3rd line
 
+
 from dev2
+
+from dev1
+
+git is amazing 
